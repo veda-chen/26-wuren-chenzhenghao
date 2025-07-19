@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../modules/A1/include/A1.h
+
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A1/src/A11.cpp
+A1.h
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A1/src/A1.h
+iostream
+-
+
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A1/src/A12.cpp
+A1.h
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A1/src/A1.h
+iostream
+-
+
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A1/src/A13.cpp
+A1.h
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A1/src/A1.h
+iostream
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../modules/A2/include/A2.h
+deque
+-
+
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A2/src/A2.cpp
+A2.h
+/home/chen/Downloads/CMake_Final/CMake_Test/modules/A2/src/A2.h
+

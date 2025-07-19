@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/main.cpp.o  -o test  libM1.a libM2.a libA1.a libA2.a libmath.a /usr/lib/x86_64-linux-gnu/libopencv_core.so 

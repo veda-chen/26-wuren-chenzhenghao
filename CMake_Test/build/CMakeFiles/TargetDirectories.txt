@@ -1,0 +1,8 @@
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/rebuild_cache.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/math.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/edit_cache.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/test.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/M2.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/M1.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/A2.dir
+/home/chen/Downloads/CMake_Final/CMake_Test/build/CMakeFiles/A1.dir
