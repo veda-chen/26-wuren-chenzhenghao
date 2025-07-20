@@ -1,0 +1,13 @@
+<launch>
+  <!-- 1. 启动 turtlesim -->
+  <node pkg="turtlesim" type="turtlesim_node" name="turtlesim"/>
+
+  <!-- 2. 加载参数 -->
+  <rosparam command="load" file="$(find turtle_cmd)/config/turtle_params.yaml" />
+
+  <!-- 3. 启动发布节点 -->
+  <node pkg="turtle_cmd" type="turtle_vel_publisher.py" name="turtle_vel_publisher" output="screen"/>
+
+  <!-- 4. 启动控制节点 -->
+  <node pkg="turtle_cmd" type="turtle_cmd_node" name="turtle_cmd_node" output="screen"/>
+</launch>

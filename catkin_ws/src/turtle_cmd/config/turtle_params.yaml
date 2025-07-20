@@ -1,0 +1,11 @@
+# 乌龟默认角速度 (rad/s)
+default_angular: 1.57   # 90 deg/s
+
+# 发布乌龟线速度话题名
+turtle_vel_topic: "/turtle_vel"
+
+# turtlesim 控制话题
+cmd_vel_topic: "/turtle1/cmd_vel"
+
+# 发布频率
+pub_rate_hz: 30
