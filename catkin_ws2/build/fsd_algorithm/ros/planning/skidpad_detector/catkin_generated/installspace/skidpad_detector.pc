@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/install
+
+Name: skidpad_detector
+Description: Description of skidpad_detector
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

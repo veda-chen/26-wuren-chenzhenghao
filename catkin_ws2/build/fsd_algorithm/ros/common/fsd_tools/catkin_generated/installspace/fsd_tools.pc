@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/install
+
+Name: fsd_tools
+Description: Description of fsd_tools
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lfsd_tools
+Requires: 

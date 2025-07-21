@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/devel
+
+Name: boundary_detector
+Description: Description of boundary_detector
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

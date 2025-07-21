@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/install
+
+Name: detection_pkg
+Description: Description of detection_pkg
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: fsd_common_msgs std_msgs geometry_msgs visualization_msgs gazebo_ros

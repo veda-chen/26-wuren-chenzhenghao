@@ -1,0 +1,14 @@
+# 任务 1：统计脚本
+cone_topic: "/perception/lidar/cone_side"
+red_color: [1.0, 0.0, 0.0]    # RGB
+blue_color: [0.0, 0.0, 1.0]
+
+# 任务 2：rviz 可视化
+rviz_frame: "map"
+marker_topic: "/cone_markers"
+
+# 任务 3：Gazebo 参数
+gazebo_model_name: "cone"
+spawn_x: 1.0
+spawn_y: 0.0
+spawn_z: 0.05

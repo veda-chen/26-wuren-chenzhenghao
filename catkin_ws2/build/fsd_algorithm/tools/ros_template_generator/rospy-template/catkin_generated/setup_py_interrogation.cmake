@@ -1,0 +1,7 @@
+set(template_SETUP_PY_SETUP_MODULE "distutils.core")
+set(template_SETUP_PY_VERSION "1.0.0")
+set(template_SETUP_PY_SCRIPTS "bin/template_node")
+set(template_SETUP_PY_PACKAGES "template")
+set(template_SETUP_PY_PACKAGE_DIRS "src/template")
+set(template_SETUP_PY_MODULES "")
+set(template_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,4 @@
+<launch>
+  <rosparam command="load" file="$(find cone_task)/config/cone_params.yaml" />
+  <!-- 下面启动你的节点 -->
+</launch>

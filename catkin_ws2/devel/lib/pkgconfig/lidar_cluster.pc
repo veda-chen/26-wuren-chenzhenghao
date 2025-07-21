@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/devel
+
+Name: lidar_cluster
+Description: Description of lidar_cluster
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: pcl_conversions pcl_msgs pcl_ros

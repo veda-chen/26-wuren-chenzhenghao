@@ -1,0 +1,2 @@
+set(fssim_common_MESSAGE_FILES "/home/chen/Desktop/catkin_ws2/src/fsd_algorithm/ros/common/fssim_common/msg/Vector3Ext.msg;/home/chen/Desktop/catkin_ws2/src/fsd_algorithm/ros/common/fssim_common/msg/Cmd.msg;/home/chen/Desktop/catkin_ws2/src/fsd_algorithm/ros/common/fssim_common/msg/Track.msg;/home/chen/Desktop/catkin_ws2/src/fsd_algorithm/ros/common/fssim_common/msg/State.msg")
+set(fssim_common_SERVICE_FILES "")

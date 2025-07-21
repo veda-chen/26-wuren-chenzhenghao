@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/devel
+
+Name: path_generator
+Description: Description of path_generator
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs nav_msgs

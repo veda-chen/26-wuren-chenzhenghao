@@ -1,0 +1,8 @@
+prefix=/home/chen/Desktop/catkin_ws2/devel
+
+Name: fsd_tools
+Description: Description of fsd_tools
+Version: 0.0.1
+Cflags: -I/home/chen/Desktop/catkin_ws2/src/fsd_algorithm/ros/common/fsd_tools/include
+Libs: -L${prefix}/lib -lfsd_tools
+Requires: 
