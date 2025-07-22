@@ -1,0 +1,2 @@
+cone_projection:fsd_common_msgs
+-DCATKIN_DEVEL_PREFIX=/home/chen/Desktop/catkin_ws3/devel -DCMAKE_INSTALL_PREFIX=/home/chen/Desktop/catkin_ws3/install -G Unix Makefiles
